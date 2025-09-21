@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skillwell/static/css/main.04f2db1c.css",
+    "main.js": "/skillwell/static/js/main.2e3a7700.js",
+    "static/js/453.670e15c7.chunk.js": "/skillwell/static/js/453.670e15c7.chunk.js",
+    "static/media/Skillwell Logo.png": "/skillwell/static/media/Skillwell Logo.481d3f2943ba2aba9581.png",
+    "index.html": "/skillwell/index.html",
+    "main.04f2db1c.css.map": "/skillwell/static/css/main.04f2db1c.css.map",
+    "main.2e3a7700.js.map": "/skillwell/static/js/main.2e3a7700.js.map",
+    "453.670e15c7.chunk.js.map": "/skillwell/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f2db1c.css",
+    "static/js/main.2e3a7700.js"
+  ]
+}
